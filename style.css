@@ -54,11 +54,15 @@ color: #FFFFFF;
   padding:12% 8% 0;
 }
 
+.info {
+  margin-top:130px;
+}
+
 .rectangle {
-  background-color: #ffffff;
-  max-width: auto;
-  box-sizing: border-box;
-  padding: 100px;
-  margin: 50px auto 0;
-  border-radius: 100px 0px 0px 0px;
+  grid-column: span auto;
+  height: 1000px;
+  top: 1200px;
+  background: #FFFFFF;
+  position: center;
+  border-radius: 150px 150px 0px 0px;
 }
