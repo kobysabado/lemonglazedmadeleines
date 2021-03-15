@@ -134,14 +134,14 @@ a:active {
   color: white;
 }
 
-/* Mobile Styles */
+/* Mobile */
 @media only screen and (max-width: 400px) {
   body {
     background-color: #F8F8FF;
   }
 }
 
-/* Tablet Styles */
+/* Tablet */
 @media only screen and (min-width: 401px) and (max-width: 960px) {
   .roselle,
   .info,
@@ -151,7 +151,7 @@ a:active {
   }
 }
 
-/* Desktop Styles */
+/* Desktop */
 @media only screen and (min-width: 961px) {
   .page {
     width: 960px;
