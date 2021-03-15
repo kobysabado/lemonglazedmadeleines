@@ -111,6 +111,10 @@ ol, li {
   overflow: auto;
 }
 
+.credit {
+  text-align: center;
+}
+
 a:link {
   color: red;
 }
@@ -128,11 +132,6 @@ a:hover {
 /* selected link */
 a:active {
   color: white;
-}
-
-.iframe {
-  justify-content: center;
-  align-items: center;
 }
 
 /* Mobile Styles */
