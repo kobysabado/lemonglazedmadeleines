@@ -49,6 +49,10 @@ ol, li {
   color: #FFF;
 }
 
+.yellow {
+  color: #ff4da6;
+}
+
 .page {
   display: flex;
   flex-wrap: wrap;
@@ -64,8 +68,12 @@ ol, li {
 .header {
   background-color: #B1CBBB;
   text-align: center;
+  background-image: url("img/baking.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
   border-radius: 50px;
   padding: 100px 10px;
+
 }
 
 .image1 {
